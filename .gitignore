@@ -1,0 +1,6 @@
+drive/MyDrive/*.gdoc
+drive/MyDrive/*.gsheet
+*.pth
+*.mp4
+sample_data/
+.config/
