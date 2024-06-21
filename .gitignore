@@ -1,6 +1,6 @@
-drive/MyDrive/*.gdoc
-drive/MyDrive/*.gsheet
+drive/
 *.pth
 *.mp4
 sample_data/
 .config/
+*.ipynb_checkpoints/
